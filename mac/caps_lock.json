@@ -153,7 +153,7 @@
             "key_code": "k",
             "modifiers": {
               "mandatory": [
-                "right_shift",
+                "right_command",
                 "right_control",
                 "right_shift",
                 "right_option"
