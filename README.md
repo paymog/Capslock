@@ -37,10 +37,7 @@
 
 ```bash
 # This Repo
-karabiner://karabiner/assets/complex_modifications/import?url=https://raw.githubusercontent.com/Vonng/Capslock/master/mac/caps_lock.json
-
-# Karabiner-Elements Offical Script Gallery
-karabiner://karabiner/assets/complex_modifications/import?url=https%3A%2F%2Fpqrs.org%2Fosx%2Fkarabiner%2Fcomplex_modifications%2Fjson%2Fcaps_lock_enhancement.json
+karabiner://karabiner/assets/complex_modifications/import?url=https://raw.githubusercontent.com/paymog/Capslock/master/mac/caps_lock.json
 ```
 
 3. Open Karabiner, Tab "ComplexModification", Button "Add Item", and enable entries you like.
