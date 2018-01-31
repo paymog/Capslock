@@ -62,7 +62,7 @@ karabiner://karabiner/assets/complex_modifications/import?url=https://raw.github
 ### Navigation
 
 - Hold  `✱` Hyper to enable navigators
-- Hold additional `⌘` Command for **selection** . (just like holding ⇧shift in normal)
+- Hold additional `⇪` Command for **selection** . (just like holding ⇧shift in normal)
 
 | Origin | Maps to        | Comment                  |
 | ------ | -------------- | ------------------------ |
@@ -93,10 +93,6 @@ karabiner://karabiner/assets/complex_modifications/import?url=https://raw.github
 | `⌘⇥` Command+Tab | `⌘⇧⇥` Command+Shift+Tab | Switch Window Reversely                  |
 | `Q`              | `⌘Q`                    | Close Window                             |
 | `W`              | `⌘W`                    | Close Tab                                |
-| `E`              | Open Safari             | Open Web Browser                         |
-| `⌘E`             | Open Finder             | Open File Browser                        |
-| `A`              | `⌃⌥⇧⌘A`                 | Leaves to [Moom](https://manytricks.com/moom/), ※a window resize app |
-| `⌘A`             | `⌃↑`  Ctrl+UpArrow      | OSX Expose All                           |
 | `S`              | `⌃⇥`  Ctrl+Tab          | Switch Tab                               |
 | `⌘S`             | `⌃⇧⇥` Ctrl+Shift+Tab    | Swtich Tab Reversely                     |
 | `⌘D`             | `F11`                   | Show Desktop                             |
@@ -117,6 +113,7 @@ karabiner://karabiner/assets/complex_modifications/import?url=https://raw.github
 #### Applications
 
 - Maybe you'd like overwrite these with your own favorite apps.
+- These are all customized. Don't listen to this graph
 
 | Origin | Maps to                 | Comment                                  |
 | ------ | ----------------------- | ---------------------------------------- |
