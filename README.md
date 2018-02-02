@@ -71,8 +71,8 @@ karabiner://karabiner/assets/complex_modifications/import?url=https://raw.github
 | `K`    | `↑` UpArrow    | cursor up                |
 | `L`    | `→` RightArrow | cursor right             |
 | `U`    | `⇞` PageUp     | cursor page up           |
-| `I`    | `↖` Home       | cursor to line(doc) head |
-| `O`    | `↘`  End       | cursor to line(doc) end  |
+| `I`    | `⇧←` Home       | cursor to line(doc) head |
+| `O`    | `⇧→`  End       | cursor to line(doc) end  |
 | `P`    | `⇟` PageDn     | cursor page down         |
 
 ### Deletion
@@ -83,7 +83,6 @@ karabiner://karabiner/assets/complex_modifications/import?url=https://raw.github
 | `M`       | `⌫` ForwardDelete                  | Delete a char ahead |
 | `,`       | `⌦` Delete                         | Delete a char after |
 | `.`       | `⌥⌦` Option + Delete               | Delete a word after |
-| `⌘M`,`⌘N` | `⌘⌥⌫` Command+Option+ForwardDelete | Delete to line head |
 
 ### Window Control
 
