@@ -960,6 +960,26 @@
         {
           "type": "basic",
           "from": {
+            "key_code": "g",
+            "modifiers": {
+              "mandatory": [
+                "left_command",
+                "right_command",
+                "right_control",
+                "right_shift",
+                "right_option"
+              ]
+            }
+          },
+          "to": [
+            {
+              "shell_command": "open -a 'Google Chrome'"
+            }
+          ]
+        },
+        {
+          "type": "basic",
+          "from": {
             "key_code": "y",
             "modifiers": {
               "mandatory": [
@@ -973,7 +993,7 @@
           },
           "to": [
             {
-              "shell_command": "open -a 'PyCharm CE'"
+              "shell_command": "open -a 'PyCharm'"
             }
           ]
         },
