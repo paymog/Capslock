@@ -993,7 +993,7 @@
           },
           "to": [
             {
-              "shell_command": "open -a 'JetBrains Client 2022.2 EAP'"
+              "shell_command": "open -a 'JetBrains Client'"
             }
           ]
         },
