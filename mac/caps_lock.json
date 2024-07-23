@@ -880,46 +880,6 @@
         {
           "type": "basic",
           "from": {
-            "key_code": "p",
-            "modifiers": {
-              "mandatory": [
-                "left_command",
-                "right_command",
-                "right_control",
-                "right_shift",
-                "right_option"
-              ]
-            }
-          },
-          "to": [
-            {
-              "shell_command": "open -a 'YouTube Music'"
-            }
-          ]
-        },
-        {
-          "type": "basic",
-          "from": {
-            "key_code": "m",
-            "modifiers": {
-              "mandatory": [
-                "left_command",
-                "right_command",
-                "right_control",
-                "right_shift",
-                "right_option"
-              ]
-            }
-          },
-          "to": [
-            {
-              "shell_command": "open -a 'zoom.us'"
-            }
-          ]
-        },
-        {
-          "type": "basic",
-          "from": {
             "key_code": "e",
             "modifiers": {
               "mandatory": [
@@ -993,7 +953,7 @@
           },
           "to": [
             {
-              "shell_command": "open -a 'rustrover 2023.3 eap'"
+              "shell_command": "open -a 'rustrover'"
             }
           ]
         },
@@ -1034,26 +994,6 @@
           "to": [
             {
               "shell_command": "open -a 'JetBrains Client'"
-            }
-          ]
-        },
-        {
-          "type": "basic",
-          "from": {
-            "key_code": "o",
-            "modifiers": {
-              "mandatory": [
-                "left_command",
-                "right_command",
-                "right_control",
-                "right_shift",
-                "right_option"
-              ]
-            }
-          },
-          "to": [
-            {
-              "shell_command": "open -a 'Todoist'"
             }
           ]
         },
